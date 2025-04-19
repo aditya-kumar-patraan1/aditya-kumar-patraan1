@@ -11,11 +11,26 @@ Email Me 👉 ✉️ **pythonboot06@gmail.com** For Collaboration/Project or Any
 - 😄 **Pronouns:** Aditya Sir
 - ⚡ **Fun fact:** I Love DSA and DSA loves Me :)
 
+### Competitive Programming Profiles
+
+[![Codeforces Stats](https://codeforces-stats-card.vercel.app/api/card?username=Aditya_kumar__)](https://codeforces.com/profile/Aditya_kumar__)
+
+
+
+- 💻 [Codeforces Profile](https://codeforces.com/profile/Aditya_kumar__)
+- 🍛 [CodeChef Profile](https://www.codechef.com/users/)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aditya-kumar-patraan1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityakr_rajput) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar--) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KumarAdity54111) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pythonboot06@gmail.com) 
+
+## 🧠 DSA Skills:
+
+![](https://leetcard.jacoblin.cool/Adi_12321?ext=heatmap)
+![](https://leetcard.jacoblin.cool/Adi_12321?ext=contest)
 
 <!-- Snake Game Repo View -->
 
