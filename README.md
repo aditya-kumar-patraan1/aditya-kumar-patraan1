@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **pythonboot06@gmail.com** For Collaboration/Project or Any
 - 😄 **Pronouns:** Aditya Sir
 - ⚡ **Fun fact:** I Love DSA and DSA loves Me :)
 
-### Competitive Programming Profiles
+## 🧮 Competitive Programming Profiles
 
 - 💻 [Codeforces Profile](https://codeforces.com/profile/Aditya_kumar__)
 - 🍛 [CodeChef Profile](https://www.codechef.com/users/zest_ravens_50)
