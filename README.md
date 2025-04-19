@@ -14,10 +14,6 @@ Email Me 👉 ✉️ **pythonboot06@gmail.com** For Collaboration/Project or Any
 
 ### Competitive Programming Profiles
 
-[![Codeforces Stats](https://codeforces-stats-card.vercel.app/api/card?username=Aditya_kumar__)](https://codeforces.com/profile/Aditya_kumar__)
-
-
-
 - 💻 [Codeforces Profile](https://codeforces.com/profile/Aditya_kumar__)
 - 🍛 [CodeChef Profile](https://www.codechef.com/users/zest_ravens_50)
 
