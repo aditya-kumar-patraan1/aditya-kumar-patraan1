@@ -30,7 +30,6 @@ Email Me 👉 ✉️ **pythonboot06@gmail.com** For Collaboration/Project or Any
 
 ## 🧠 DSA Skills:
 
-![](https://leetcard.jacoblin.cool/Adi_12321?ext=heatmap)
 ![](https://leetcard.jacoblin.cool/Adi_12321?ext=contest)
 
 <!-- Snake Game Repo View -->
