@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **pythonboot06@gmail.com** For Collaboration/Project or Any
 
 
 - 💻 [Codeforces Profile](https://codeforces.com/profile/Aditya_kumar__)
-- 🍛 [CodeChef Profile](https://www.codechef.com/users/)
+- 🍛 [CodeChef Profile](https://www.codechef.com/users/zest_ravens_50)
 
 
 ## 🏆 GitHub Trophies
