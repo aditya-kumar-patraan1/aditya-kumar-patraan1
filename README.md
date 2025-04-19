@@ -1,6 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/shubhankarsharma876/main/bannerskill.png"/></a>
 # 💫 Hi 👋, I'm Aditya Kumar Rajput
-**A passionate Software Engineer || Full-Stack Developer || DSA Problem Solver**
+**A passionate Software Engineer || Full-Stack Developer || DSA Problem Solver || GGSIPU RANK 1 BCA TOPPER**
 
 Email Me 👉 ✉️ **pythonboot06@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
