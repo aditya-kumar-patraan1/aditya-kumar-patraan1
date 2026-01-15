@@ -15,9 +15,9 @@ Email Me 👉 ✉️ **adityakrp2006@gmail.com** For Collaboration/Project or An
 
 ## 🧮 Competitive Programming Profiles
 
+- 💻 [Leetcode Profile](https://leetcode.com/u/Adi_12321/)
 - 💻 [Codeforces Profile](https://codeforces.com/profile/Aditya_kumar__)
 - 🍛 [CodeChef Profile](https://www.codechef.com/users/zest_ravens_50)
-- 💻 [Leetcode Profile](https://leetcode.com/u/Adi_12321/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aditya-kumar-patraan1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
