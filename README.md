@@ -3,13 +3,13 @@
 **A passionate Software Engineer || Full-Stack Developer || DSA Problem Solver || GGSIPU RANK 3 BCA TOPPER**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-kumar-patraan1&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-kumar-patraan1" /> </p>
 
-Email Me 👉 ✉️ **pythonboot06@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **adityakrp2006@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** CodeDoodle Project
 - 🌱 **I’m currently learning:** React-Native
 - 👯 **I’m looking to collaborate on:** CodeDoodle (A code Sharing Website)
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** pythonboot06@gmail.com
+- 📫 **How to reach me:** adityakrp2006@gmail.com
 - 😄 **Pronouns:** Aditya Sir
 - ⚡ **Fun fact:** I Love DSA and DSA loves Me :)
 
