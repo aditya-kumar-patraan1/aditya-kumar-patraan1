@@ -6,8 +6,7 @@
 Email Me 👉 ✉️ **adityakrp2006@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** CodeDoodle Project
-- 🌱 **I’m currently learning:** React-Native
-- 👯 **I’m looking to collaborate on:** CodeDoodle (A code Sharing Website)
+- 🌱 **I’m currently learning:** Springboot,Django
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** adityakrp2006@gmail.com
 - 😄 **Pronouns:** Aditya Sir
