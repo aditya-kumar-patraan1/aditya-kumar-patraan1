@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **adityakrp2006@gmail.com** For Collaboration/Project or An
 - 🌱 **I’m currently learning:** Springboot,Django,FastAPI
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** adityakrp2006@gmail.com
-- 😄 **Pronouns:** Aditya Sir
+- 😄 **Pronouns:** Aditya Buddy
 - ⚡ **Fun fact:** I Love DSA and DSA loves Me :)
 
 ## 🧮 Competitive Programming Profiles
