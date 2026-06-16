@@ -12,6 +12,9 @@
 ## 📌 About Me
 - I'm a passionate about DSA and Web Developer with expertise in turning complex data into actionable insights and building seamless digital experiences. Currently pursuing B.C.A. and constantly exploring the intersection of Data Structure and web technologies. Recognized as a University Topper 🏆 and ranked in the Top 3% globally on LeetCode, where I have reached Knight level with a 1900+ rating.
 
+## 🧠 DSA Skills:
+
+![](https://leetcard.jacoblin.cool/Adi_12321?ext=contest)
 
 ## 🧠 My Focus Areas
 - Web Development
