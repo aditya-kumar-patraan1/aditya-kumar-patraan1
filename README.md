@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aditya Kumar</h1>
-<h3 align="center">Upcoming @SAP Labs Scholar</h3>
+<h3 align="center">Upcoming @SAP Labs India Scholar</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=aditya-kumar-patraan1">
