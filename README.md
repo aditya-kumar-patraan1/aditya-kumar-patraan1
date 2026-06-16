@@ -1,53 +1,112 @@
-<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/shubhankarsharma876/main/bannerskill.png"/></a>
-# 💫 Hi 👋, I'm Aditya Kumar Rajput
-**A passionate Software Engineer || Full-Stack Developer || DSA Problem Solver || GGSIPU RANK 3 BCA TOPPER**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-kumar-patraan1&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-kumar-patraan1" /> </p>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aditya Kumar</h1>
+<h3 align="center">Upcoming @SAP Labs Scholar</h3>
 
-Email Me 👉 ✉️ **adityakrp2006@gmail.com** For Collaboration/Project or Anything Else.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=aditya-kumar-patraan1">
+    <img src="https://komarev.com/ghpvc/?username=aditya-kumar-patraan1&label=Profile%20views&color=00FFFF&style=flat-square" alt="aditya-kumar-patraan1's profile views" />
+  </a>
+</p>
 
-- 🔭 **I’m currently working on:** CodeDoodle Project
-- 🌱 **I’m currently learning:** Springboot,Django,FastAPI
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** adityakrp2006@gmail.com
-- 😄 **Pronouns:** Aditya Buddy
-- ⚡ **Fun fact:** I Love DSA and DSA loves Me :)
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 🧮 Competitive Programming Profiles
+## 📌 About Me
+- I'm a passionate about DSA and Web Developer with expertise in turning complex data into actionable insights and building seamless digital experiences. Currently pursuing B.C.A. and constantly exploring the intersection of Data Structure and web technologies. Recognized as a University Topper 🏆 and ranked in the Top 3% globally on LeetCode, where I have reached Knight level with a 1900+ rating.
 
-- 💻 [Leetcode Profile](https://leetcode.com/u/Adi_12321/)
-- 💻 [Codeforces Profile](https://codeforces.com/profile/Aditya_kumar__)
-- 🍛 [CodeChef Profile](https://www.codechef.com/users/zest_ravens_50)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aditya-kumar-patraan1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityakr_rajput) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar--) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KumarAdity54111) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pythonboot06@gmail.com) 
+## 🧠 My Focus Areas
+- Web Development
+- Data structures & Algorithms
 
-## 🧠 DSA Skills:
 
-![](https://leetcard.jacoblin.cool/Adi_12321?ext=contest)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/aditya-kumar-patraan1">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-kumar-patraan1&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="aditya-kumar-patraan1's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=aditya-kumar-patraan1&theme=dark&hide_border=true&cache_seconds=86400" alt="aditya-kumar-patraan1's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=aditya-kumar-patraan1&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aditya Kumar's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-kumar-patraan1&theme=dark&radius=10" alt="aditya-kumar-patraan1's Activity Graph" />
+</p>
 
-<!-- Snake Game Repo View -->
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/aditya-kumar-patraan1">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-kumar-patraan1&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-kumar--/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/917982489836">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adityakrp2006@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://adi-portfolio-pied.vercel.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+## 💬 Quote
+> One Big Win > Many Losses
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aditya-kumar-patraan1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aditya-kumar-patraan1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kumar-patraan1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aditya-kumar-patraan1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=aditya-kumar-patraan1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
